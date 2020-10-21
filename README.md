@@ -21,6 +21,6 @@ If you want to run the python file (.py), run `cd desktop` to navigate to your d
 
 # Troubleshooting
 
-If you are having any issues running the code, please refer to these links or contact me. 
+If you are having any issues running the code, please refer to these links or contact faizan.ahmed18@stjohns.edu. 
   - https://www.geeksforgeeks.org/how-to-run-a-python-script/
   - https://pythonbasics.org/execute-python-scripts/
