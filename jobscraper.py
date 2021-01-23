@@ -150,7 +150,7 @@ def scrapeListings(position):
 
     print(totalJobs + ' jobs found!', str(pages) + ' pages of results')
     
-    #Go through 10 pages of results 
+    #Go through all the pages of results 
     for x in range(pages):
 
         url = 'https://www.indeed.com/jobs?q=' + position_ + '&l=New+York%2C+NY&start=' + str(page) 
