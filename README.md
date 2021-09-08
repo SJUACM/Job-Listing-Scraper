@@ -20,7 +20,7 @@ Check out the step-by-step tutorial on YouTube [here](https://www.youtube.com/wa
       
       - `pip3 install -r requirements.txt` if you are on Mac
       
-  - Run the code `python jobscraper.py`
+  - Run the code `python jobscraperv2.py`
   
 # How to Run the Python Notebook file (.ipynb)
 
