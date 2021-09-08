@@ -49,7 +49,7 @@ def getJobResults(position, location) -> Tuple[str, int]:
     
     driver.get(url)
     
-    time.sleep(10)
+    time.sleep(2)
     
     jobsFound = driver.find_elements_by_xpath('/html/body/table[2]/tbody/tr/td/table/tbody/tr/td[1]/div[3]/div[4]/div[2]/div')[0].text
     
