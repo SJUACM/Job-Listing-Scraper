@@ -1,5 +1,6 @@
 # Faizan Ahmed
-# 9/7/2021
+# faizan.ahmed18@stjohns.edu
+# 9/10/2021
 
 import time, logging
 import pandas as pd
